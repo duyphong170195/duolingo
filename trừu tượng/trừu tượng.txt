@@ -146,7 +146,137 @@
 
 36. agreement
     Every agreement is impossible: Mọi thỏa thuận đều không khả thi .
+    We need to come to an agreement: Chúng tôi cần đi đến một thỏa thuận.
 
 37. protection
-    You are under my protection 
+    You are under my protection: ban dang trong su bao ve cu toi.
+    They need our protection: Họ cần sự bảo vệ của chúng ta .
 
+39. production
+    I am in the production department: Tôi ở phòng sản xuất.
+    Coffee is the main production of Brazil:  Cà phê là sự sản xuất chính ở nước Brazil .
+
+40. response
+    Each student has a different response: Mỗi học sinh có một câu trả lời khác nhau.
+    There was no response to my question: Đã không có câu trả lời nào cho câu hỏi của tôi.
+
+41. solution
+    we have a couple of solutions to this issue: Chúng tôi có vài giải pháp cho vấn đề này.
+    She does not offer a solution however.: Tuy nhiên cô ấy không đưa ra một giải pháp .
+    He finally found a solution to solve to his issue: Cuối cùng anh ta đã tìm ra một cách giải quyết cho vấn đề của mình .
+
+42. construction
+    The construction has twenty floors: Công trình xây dựng có 20 tầng.
+    The construction of the school starts next week: Sự xây dựng của ngôi trường bắt đầu vào tuần sau.
+    the museum is under construction: Viện bảo tàng đang được xây dựng.
+
+43. hope(n): hi vọng
+    The hope: hi vọng
+    You are our hope: Bạn là hi vọng của chúng tôi.
+    There is hope: Có hi vọng
+
+44. mind
+    You have to open your mind: Bạn phải mở rộng đầu óc của bạn .
+    He is out of his mind.: Anh ta mất trí rồi .
+
+45. entry: Lối vào.
+    I see the entry: Tôi nhìn thấy lối vào. 
+    The book has many entries: Cuốn sách có rất nhiều mục .
+
+46. opportunity
+    We have no opportunity to use English: Chúng tôi không có cơ hội để sử dụng tiếng Anh.
+    The opportunities: Những cơ hội.
+
+47. union: hiệp hội, sự hợp nhất.
+    Everybody wants union in the country.: Mọi người muốn có sự hợp nhất trong đất nước.
+    The union believes that everybody has the same rights: Hiệp hội tin rằng mỗi người có quyền lợi như nhau.
+
+48. effect(n): hiệu ứng, tác dụng
+
+49. wish(n) : điều ước
+    We respect the wishes of the victim.: Chúng tôi tôn trọng những ước nguyện của nạn nhân.
+
+50. degree: Bằng cấp, nhiệt độ
+    It is ten degrees this morning: Trời thì mười độ sáng nay.
+    The degree takes four or five years: Cái bằng mất bốn hoặc năm năm .
+
+51. purpose: mục dích
+    My trip has a purpose: Chuyến đi của tôi có một mục đích.
+    What is the purpose of your visit: Mục đích chuyến thăm của bạn là gì?
+
+52. evidence: bằng chứng
+    There is no historical evidence: Không có bằng chứng lịch sử .
+    This is evidence!: Đây là bằng chứng!
+
+53. matter: Vấn đề
+    It is only a matter of time: No chỉ là vấn đề thời gian.
+    You have no choice in this matter: Bạn không có sự lựa chọn trong vấn đề này.
+    We must study the matter: Chúng tôi phải nghiên cứu vấn đề.
+
+54. role: Vai trò
+    The role: Vai trò
+    I have a perfect role for you: Tôi có vai trò hoàn hảo cho bạn.
+
+55. voie: giọng nói.
+    She has a beautiful voice: Cô ấy có một giọng nói đẹp .
+    She has a nice voice: Cô ấy có một giọng nói hay.
+    Have you lost your voice? : Bạn đã mất đi giọng nói của mình à ?
+
+56. choice: sự lựa chọn
+    My choice is different from yours: Sự lựa chọn của tôi thì khác của bạn.
+
+57. grade : Lớp
+    I am a fourth grade teacher: Tôi là một giáo viên lớp bốn.
+    
+58. introduction : sự giới thiệu, lời giới thiệu
+    Introduction from the author: Lời giới thiệu từ tác giả
+    Who wrote the introduction: Ai đã viết lời mở đầu ?
+
+59. charge:
+    My phone is out of charge: Điện thoại của tôi hết pin.
+
+60. awards:
+    He won four awards: Anh ấy đã chiến thắng 4 giải .
+    The award is on the wall: Giải thưởng ở trên tường.
+
+61. route: đường đi, tuyến đường, lộ trình.
+    The route to success: Lộ trình đến thành công.
+
+62. subject: chủ đề, đề tài, môn học
+    What is the subject of the book?: Chủ đề của cuốn sách là gì ?
+    What subjects do you study at school?: Bạn học những môn gì ở trường học?
+
+63. rest: nghỉ ngơi
+    I want to take a rest:  muốn nghỉ ngơi.
+    I want to have a rest: Tôi muốn được nghỉ ngơi.
+
+64. topic: Chủ đề
+    Do not change the topic: Đừng thay đổi chủ đề.
+
+65. battery: pin
+    My phone is out of battery: Điện thoại của tôi hết pin.
+
+66. success
+    This explains his success: Điều này giải thích sự thành công của anh ta.
+    the book was an international success: Điều này giải thích sự thành công của anh ta.
+
+67. edge: mép, rìa, bờ
+    Water's edge: mép nước.
+    I see the edge of the building: Tôi nhìn thấy mép của tòa nhà.
+
+69. alternative/ɒlˈtɜː.nə.tɪv/: sự thay thế, lựa chọn khác
+    We do not have an alternative: Chúng tôi không có sự lựa chọn khác.
+    I saw him as an alternative: Tôi đã xem anh ấy như một sự thay thế.
+
+70. kind
+    It is a kind of fruit: Nó là một loại hoa quả.
+    It is very kind of you: Bạn rất tốt bụng
+    This is a kind of tomato: Đây là một loại cà chua.
+
+71. record: Hồ sơ, ghi âm, kỉ lục, đĩa nhạc
+    The police have your record: Cảnh sát có hồ sơ của bạn.
+    His name is not in the records: Tên của anh ấy không có trong các hồ sơ.
+    Put another record on!: Đặt đĩa nhạc khác lên!
+
+72. dark: bỏng tối, đêm
+    The child is afraid of the dark: Đứa trẻ sợ bóng tối.
