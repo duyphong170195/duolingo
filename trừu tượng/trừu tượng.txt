@@ -41,7 +41,7 @@
     Take the umbrella in case it rains: Đem cái dù phòng khi trời mưa. ( in case)
 
 
-10. order
+10. order: đơn hàng, yêu cầu
     This is my order.
     This is the last order: Đây là yêu cầu cuối cùng.
 
@@ -69,6 +69,7 @@
 16. account
     Here's is my account number: Day la so tai khoan cua toi.
     I have an account at that bank: Tôi có một tài khoản ở ngân hàng đó .
+    How do we take it into account: Lam sao chung ta co the chiếu cố đến nó? (take something into account: chiếu cố cái gì đó)
 
 17. change
     I need change
@@ -203,6 +204,7 @@
 51. purpose: mục dích
     My trip has a purpose: Chuyến đi của tôi có một mục đích.
     What is the purpose of your visit: Mục đích chuyến thăm của bạn là gì?
+    She did it on purpose: Cô ta đã cố tình làm nó.
 
 52. evidence: bằng chứng
     There is no historical evidence: Không có bằng chứng lịch sử .
@@ -216,6 +218,7 @@
 54. role: Vai trò
     The role: Vai trò
     I have a perfect role for you: Tôi có vai trò hoàn hảo cho bạn.
+    He played an important role on the committee: Anh ta đã đóng một vai trò quan trọng trong uỷ ban
 
 55. voie: giọng nói.
     She has a beautiful voice: Cô ấy có một giọng nói đẹp .
@@ -249,6 +252,7 @@
 63. rest: nghỉ ngơi
     I want to take a rest:  muốn nghỉ ngơi.
     I want to have a rest: Tôi muốn được nghỉ ngơi.
+    We wants the rest of my bread: Anh ấy muốn chỗ bánh mì còn lại của tôi.
 
 64. topic: Chủ đề
     Do not change the topic: Đừng thay đổi chủ đề.
